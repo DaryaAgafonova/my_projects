@@ -78,8 +78,8 @@ print(y.display()) # Дарья. Возвраст 19.
 p1.name = "Lily"
 p1.age = 121
 print(p1.display()) # Ошибка
-# Lily. Возвраст 23.
+                    # Lily. Возвраст 23.
 
 p1.name = 123
 print(p1.display()) # Ошибка
-#Lily. Возвраст 23.
+                    # Lily. Возвраст 23.
